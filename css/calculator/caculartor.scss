@@ -1,0 +1,8 @@
+.calculator {
+    background-color: $color-w ;
+    padding: 15px;
+    border-radius: 30px;
+    box-shadow: inset $pad $c-while , $pad $bs-rgba;
+    display: grid;
+    grid-template-columns: repeat(4, 68px);
+}
